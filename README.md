@@ -1,4 +1,7 @@
 #<h1 align="center">Hi 👋, I'm Keshur Mihir</h1>
+<h3 align="center"> I'm a statistics student,i enjoy statistics and constantly intersted in learing more about data.Data is an art from that must be understood.</h3>
+  I'm currently learning **SQL**
+ How to reach me **mihirkeshur456@gmail.com**
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
 <h3 align="left">Connect with me:</h3>
